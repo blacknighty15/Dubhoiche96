@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @blacknighty15
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python and sharepoint
+- 👀 I’m interested in computer science and graphic design
+- 🖥  C++, Visual Basic, VBA, python, access and sharepoint
+- 📊 Excel, Power BI, tableau
+- 🎮 Gamer
 - 📫 How to reach me, emanuel.josue.herrera@gmail.com
 
 <!---
