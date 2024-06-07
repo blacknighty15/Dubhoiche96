@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blacknighty15
+- 👋 Hi, I’m @Dubhoiche96
 - 👀 I’m interested in computer science and graphic design
 - 🖥  C++, Visual Basic, VBA, python, access and sharepoint
 - 📊 Excel, Power BI, tableau
